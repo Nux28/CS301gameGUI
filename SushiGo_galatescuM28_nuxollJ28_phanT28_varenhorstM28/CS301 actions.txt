@@ -1,0 +1,16 @@
+CS301 actions.txt Josephine, Maria, Tony, Kenzie
+
+Game: Sushi Go
+
+
+List of actions player can take in game:
+
+1. select a card
+
+2. use wasabi card
+
+3. use chopsticks card
+
+5. select number of players?
+
+6. ready button (end turn)
